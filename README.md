@@ -15,5 +15,5 @@ The libraries used are:
 - Requests
 
 ```bash
-# Clone the repository
+# Install bs4
 pip install bs4
