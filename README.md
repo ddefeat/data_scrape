@@ -16,4 +16,4 @@ The libraries used are:
 
 ```bash
 # Clone the repository
-pip install BeautifulSoup4
+pip install bs4
